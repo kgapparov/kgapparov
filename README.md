@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kgapparov
 - 👀 I’m interested in problem-solving and system design...
-- 🌱 I am currently working on my personal project real estate management application platform. 
+- 🌱 I am currently working on my personal project Generated Software Runtime  platform @Vextura.ai. 
 If you are interested or want to contribute, if you share the same interest contact me at hasangaly@gmail.com
 
 <!---
